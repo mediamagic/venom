@@ -1,0 +1,58 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00B7FF;
+}
+#skrollr-wrapper {
+  max-width: 810px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+#skrollr-body article {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  border: red solid 1px;
+  background: red;
+}
+#skrollr-body article#shoe1 {
+  background: url('../img/shoes/shoe-1-768-2.png');
+  width: 630px;
+  height: 478px;
+}
+#skrollr-body article#shoe2 {
+  background: url('../img/shoes/shoe-2-768-2.png');
+  width: 748px;
+  height: 556px;
+}
+#skrollr-body article#shoe3 {
+  background: url('../img/shoes/shoe-3-768-2.png');
+  width: 690px;
+  height: 515px;
+}
+#skrollr-body .monster {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  border: #0000ff solid 1px;
+  background: blue;
+}
+#skrollr-body .monster#monster1 {
+  background: url('../img/monsters/monster1-768.jpg');
+  width: 565px;
+  height: 462px;
+}
+#skrollr-body .monster#monster2 {
+  background: url('../img/monsters/monster2-768.jpg');
+  width: 705px;
+  height: 502px;
+}
+#skrollr-body .monster#monster3 {
+  background: url('../img/monsters/monster3-768.jpg');
+  width: 755px;
+  height: 394px;
+}
