@@ -1,11 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34a303a2-1a4d-4789-8dac-03a78501b0c4" name="Default" comment="" />
+    <list default="true" id="34a303a2-1a4d-4789-8dac-03a78501b0c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/hotspots/popover_boot6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/images/video-play-background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/HTML_Boilerplate_3.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/polyfills/boxsizing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/global_overrides.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/lib/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/lib/modernizr.custom.79969.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/lib/underscore-min.js" />
+      <change type="DELETED" beforePath="C:\Users\Benny\Sites\node\venom\public\style\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Benny\Sites\node\venom\public\style\style.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Benny\Sites\node\venom\views\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Benny\Sites\node\venom\views\layout.jade" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\ajax-loader.gif" afterPath="$PROJECT_DIR$/public/static/images/ajax-loader.gif" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\athlete-snake-320.jpg" afterPath="$PROJECT_DIR$/public/static/images/athlete/athlete-snake-320.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\athlete-snake-480.jpg" afterPath="$PROJECT_DIR$/public/static/images/athlete/athlete-snake-480.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\athlete-snake-768.jpg" afterPath="$PROJECT_DIR$/public/static/images/athlete/athlete-snake-768.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\athlete-snake.jpg" afterPath="$PROJECT_DIR$/public/static/images/athlete/athlete-snake.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\athlete-snake.png" afterPath="$PROJECT_DIR$/public/static/images/athlete/athlete-snake.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\athlete\ball.png" afterPath="$PROJECT_DIR$/public/static/images/athlete/ball.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\controls\play-button-small.png" afterPath="$PROJECT_DIR$/public/static/images/controls/play-button-small.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\hypervenom-tout.png" afterPath="$PROJECT_DIR$/public/static/images/hypervenom-tout.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\lightbox-close-2x.png" afterPath="$PROJECT_DIR$/public/static/images/lightbox-close-2x.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\lightbox-close.png" afterPath="$PROJECT_DIR$/public/static/images/lightbox-close.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\masks\blink1.png" afterPath="$PROJECT_DIR$/public/static/images/masks/blink1.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\masks\blink2.png" afterPath="$PROJECT_DIR$/public/static/images/masks/blink2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\masks\blink3.png" afterPath="$PROJECT_DIR$/public/static/images/masks/blink3.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster1-320.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster1-320.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster1-480.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster1-480.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster1-768.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster1-768.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster1.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster2-320.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster2-320.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster2-480.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster2-480.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster2-768.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster2-768.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster2.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster3-320.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster3-320.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster3-480.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster3-480.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster3-768.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster3-768.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\monsters\monster3.jpg" afterPath="$PROJECT_DIR$/public/static/images/monsters/monster3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\nike-swoosh.png" afterPath="$PROJECT_DIR$/public/static/images/nike-swoosh.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-1-320.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-1-320.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-1-480-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-1-480-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-1-768-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-1-768-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-1.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-1.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-2-320.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-2-320.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-2-480-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-2-480-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-2-768-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-2-768-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-3-320.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-3-320.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-3-480-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-3-480-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-3-768-2.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-3-768-2.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\shoes\shoe-3.png" afterPath="$PROJECT_DIR$/public/static/images/shoes/shoe-3.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_10_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_10_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_11_500x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_11_500x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_1_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_1_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_2_500x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_2_500x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_3_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_3_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_4_500x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_4_500x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_5_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_5_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_6_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_6_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_7_240x500.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_7_240x500.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_8_500x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_8_500x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\sketches\box_9_240x240.jpg" afterPath="$PROJECT_DIR$/public/static/images/sketches/jpg/box_9_240x240.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\img\video-background-mobile.png" afterPath="$PROJECT_DIR$/public/static/images/video-background-mobile.png" />
+      <change type="MOVED" beforePath="C:\Users\Benny\Sites\node\venom\public\js\skrollr\skrollr.min.js" afterPath="$PROJECT_DIR$/public/static/js/lib/skrollr/skrollr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="venom.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372874130934" ignored="false" />
+    <file path="/Dummy.txt" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372879156940" ignored="false" />
     <file path="/.gitignore" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372874143682" ignored="false" />
+    <file path="/index.html" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372879963253" ignored="false" />
+    <file path="/style.less" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372876259770" ignored="false" />
+    <file path="/app.js" changelist="34a303a2-1a4d-4789-8dac-03a78501b0c4" time="1372883786115" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +103,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/static/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="622" column="26" selection-start="25483" selection-end="25483" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1372882411606" expanded="false" signature="12887:12894" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="4" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.40332147">
               <folding />
             </state>
           </provider>
@@ -53,6 +160,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/style/style.less" />
+        <option value="$PROJECT_DIR$/public/static/js/scripts.js" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -106,6 +218,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -113,11 +279,49 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Benny\Sites\node\venom\views" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="34a303a2-1a4d-4789-8dac-03a78501b0c4" name="Default" comment="" />
@@ -133,7 +337,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14654718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17290458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -212,6 +416,29 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="622" column="26" selection-start="25483" selection-end="25483" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372882411606" expanded="false" signature="12887:12894" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.40332147">
           <folding />
         </state>
       </provider>
